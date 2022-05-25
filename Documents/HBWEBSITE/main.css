@@ -1,0 +1,32 @@
+h1 {
+    color: aqua;
+    text-align: center;
+}
+
+.body {
+    background-image: url(./background1.jfif);
+    background-attachment: 100%;
+    background-position: center;
+
+
+}
+    
+
+    p { 
+        font-size: 3em;
+        text-align: left;
+        font-family: 'Grape Nuts', cursive;
+        font-family: 'Ms Madi', cursive;
+       margin: auto;
+    }
+
+.parrafoindex { color: white;
+    margin-inline-start: auto;
+}
+
+.navindex {
+    color: bisque;
+    text-align: center;
+}
+
+
